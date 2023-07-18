@@ -10,12 +10,12 @@
 - [x] Módulo 2: Introdução às redes neurais. Parte 1
 - [x] Módulo 3: Introdução às redes neurais. Parte 2
 - [x] Módulo 4: Introdução à Visão Computacional
-- [ ] Módulo 5: Introdução ao Aprendizado de Representação e Redes
-- [ ] Módulo 6: Introdução a Séries Temporais
-- [ ] Módulo 7: Introdução ao Processamento de Linguagem Natural (NLP)
-- [ ] Módulo 8: Introdução ao Aprendizado por reforço
-- [ ] Módulo 9: Redes neurais aplicadas a Sistemas de Recomendação
-- [ ] Módulo 10: Modelos em produção
-- [ ] Módulo 11: Bonus: Extração e análise de Dados em Big Data com Pyspark/Koalas
-- [ ] Módulo 12: Projeto Final
+- [x] Módulo 5: Introdução ao Aprendizado de Representação e Redes
+- [x] Módulo 6: Introdução a Séries Temporais
+- [x] Módulo 7: Introdução ao Processamento de Linguagem Natural (NLP)
+- [x] Módulo 8: Introdução ao Aprendizado por reforço
+- [x] Módulo 9: Redes neurais aplicadas a Sistemas de Recomendação
+- [x] Módulo 10: Modelos em produção
+- [x] Módulo 11: Bonus: Extração e análise de Dados em Big Data com Pyspark/Koalas
+- [x] Módulo 12: Projeto Final
 
